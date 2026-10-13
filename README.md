@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 💼 Currently working / learning about: **Guru Eskul Game Development**
-- 🔭 Working on: **aimweb**
+- 🔭 Working on: **AimWeb**
 - 🌱 Learning: **Godot, PHP, Python, JavaScript**
 - 💬 Ask me about: **Anime, Manga, Games, Music**
 - 📫 How to reach me: **farsyabusiness2@gmail.com**
